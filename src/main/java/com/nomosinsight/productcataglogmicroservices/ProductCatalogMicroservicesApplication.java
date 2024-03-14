@@ -1,13 +1,13 @@
-package com.nomosinsight.Productcateglogmicroservices;
+package com.nomosinsight.productcataglogmicroservices;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ProductCateglogMicroservicesApplication {
+public class ProductCatalogMicroservicesApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ProductCateglogMicroservicesApplication.class, args);
+		SpringApplication.run(ProductCatalogMicroservicesApplication.class, args);
 	}
 
 }
